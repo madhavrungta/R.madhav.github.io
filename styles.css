@@ -44,7 +44,7 @@ html {
 }
 
 body {
-  background-image: url("../img/background2.jpg"); /* Update the path */
+  background-image: url("background2.jpg"); /* Update the path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
